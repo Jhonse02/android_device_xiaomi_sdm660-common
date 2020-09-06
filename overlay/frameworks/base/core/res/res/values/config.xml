@@ -364,4 +364,7 @@
 
    <!-- True if the firmware supports p2p MAC randomization -->
    <bool name="config_wifi_p2p_mac_randomization_supported">true</bool>
+
+   <!-- Pocket Lock -->
+   <string name="config_pocketBridgeSysfsInpocket">/sys/kernel/pocket_judge/inpocket</string>
 </resources>
